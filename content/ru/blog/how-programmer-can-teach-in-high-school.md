@@ -78,3 +78,5 @@ slug: "how-programmer-can-teach-in-high-school"
 - версионность и итерации — курс добавляется, перерабатывается, «обкатывается»
 - интерес к педагогике
 - совместные проекты с университетом, факультетом, кафедрой, коллегами
+<!-- 
+https://www.econ.msu.ru/students/bachelor/mng/Project-MAX/Article.20201017110630_5648/?ysclid=l5iqpmdh6i815816742 -->
